@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![ts](#3178C6)
+
 
 <!--
 **DevVedantk/DevVedantk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
