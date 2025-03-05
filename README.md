@@ -1,7 +1,7 @@
 <h1 align="center">Hello World 👨‍💻 I'm Vedant Khasbage</h1>
 <h3 align="center">Undergradute CSE student having Interest in DSA ,WebDevelopment and DevOps🚀🚀</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: vedantkhasbage2005@gmail.com</h3>
 <p align="left">
 </p>
 
