@@ -1,5 +1,9 @@
 <h2 align="center">Hello World I'm Vedant Khasbage</h2>
 
+<div align="center">
+  <img height="320" src="https://media.tenor.com/3bTxZ4HdrysAAAAd/pixels-neon.gif"  />
+</div>
+
 ###
 
 <div align="center">
@@ -8,9 +12,7 @@
 
 ###
 
-<div align="center">
-  <img height="320" src="https://media.tenor.com/3bTxZ4HdrysAAAAd/pixels-neon.gif"  />
-</div>
+
 
 ###
 
