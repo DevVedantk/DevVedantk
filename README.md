@@ -9,7 +9,7 @@
 ###
 
 <div align="center">
-  <img height="420" src="https://media.tenor.com/3bTxZ4HdrysAAAAd/pixels-neon.gif"  />
+  <img height="320" src="https://media.tenor.com/3bTxZ4HdrysAAAAd/pixels-neon.gif"  />
 </div>
 
 ###
