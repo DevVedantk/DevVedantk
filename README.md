@@ -1,14 +1,5 @@
 <h2 align="center">Hello World I'm Vedant Khasbage</h2>
 
-<div>
-  <h2>  Skills : </h2>h2>
-  <h3>Languages Proficient/Familiar: Java,C, JavaScript,TypeScript </h3>
- <h3> Technology ReactJS,NextJS ,ExpressJS,TailWind,MongoDB,NodeJS,PostgreSQL,mySQL,TurboRepository </h3>
- <h3>  DevOps : AWS,Docker,Nginx,CI/CD Pipelines </h3>
-  <h3> Concept Familiar : Horizontal/Vertical Scaling,Auto Scaling Groups (ASGs) ,EC2 Servers,Monitoring,Serverless
-  Backend(CloudFlare) ,Kubernetes  </h3>
-</div>
-
 <div align="center">
   <img height="320" src="https://media.tenor.com/3bTxZ4HdrysAAAAd/pixels-neon.gif"  />
 </div>
